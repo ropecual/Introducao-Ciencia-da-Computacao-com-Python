@@ -5,4 +5,4 @@ x = entrada * 4
 # área
 y = entrada * entrada
 
-print("perímetro:",x,"- área:",y)
+print("perímetro:", x, "- área:", y)

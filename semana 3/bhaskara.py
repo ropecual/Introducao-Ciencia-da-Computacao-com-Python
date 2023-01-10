@@ -12,8 +12,8 @@ if delta < 0:
     print("esta equação não possui raízes reais")
 elif delta == 0:
     x1 = (-b + math.sqrt(delta)) / (2 * a)
-    print("a raiz desta equação é",x1)
+    print("a raiz desta equação é", x1)
 else:
     x1 = (-b + math.sqrt(delta)) / (2 * a)
     x2 = (-b - math.sqrt(delta)) / (2 * a)
-    print("as raízes da equação são",x2,"e",x1)
+    print("as raízes da equação são", x2, "e", x1)

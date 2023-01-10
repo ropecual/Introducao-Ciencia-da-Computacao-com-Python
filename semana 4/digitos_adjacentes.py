@@ -1,6 +1,5 @@
 numero = input("Digite o valor de n: ")
 
-
 i = 0
 valor = "n"
 count = 0
