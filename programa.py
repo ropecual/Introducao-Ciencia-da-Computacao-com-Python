@@ -1,20 +1,20 @@
-import math
+n = 5
+m = 3
 
-numero = input("digite um numero: ")
-i = 0
-soma =0
-digito = "n"
-
-while i < len(numero):
-    if digito != numero[i]:
-        digito = numero[i]
+def computador_escolhe_jogada(n, m):
+    count = 0
+    while n % (m + 1) != 0:
+        count += 1
+        n -= 1
+    if count == 0:
+        return m
+    elif count > 0 and count <= m:
+        return n - (n - count)
     else:
-        print("Há digitos subjacentes iguais")
-        print("O Digito é", digito)
-
-    soma = soma + int(numero[i])
-    i += 1
+        return m
 
 
 
-print("a soma é",soma)
+a = computador_escolhe_jogada(n,m)
+
+print(a)
