@@ -1,7 +1,9 @@
+def fatorial(numero):
+    fat = 1
+    while numero > 1:
+        fat = fat * numero
+        numero = numero - 1
+    return fat
 
 
-def soma(x, y):
-    return x + y
-
-
-print(soma(10, 20))
+print(fatorial(2))
