@@ -15,7 +15,6 @@ def computador_escolhe_jogada(n, m):
 def usuario_escolhe_jogada(n, m):
     if n <= m:
         m = n
-    a_remover = 0
     a_remover = int(input("Quantas peças você vai tirar? "))
     while a_remover > m or a_remover < 1:
         print("Oops! Jogada inválida! Tente de novo.")
