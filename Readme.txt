@@ -4,5 +4,9 @@ Link dos cursos:
 https://www.coursera.org/learn/ciencia-computacao-python-conceitos
 https://www.coursera.org/learn/ciencia-computacao-python-conceitos-2
 
-Não copie! Exercite sua mente!
+# Links Úteis
 
+https://www.ime.usp.br/~vwsetzer/python-opers-funcoes.html
+
+
+https://panda.ime.usp.br/cc110/static/cc110/12-matrizes.html
