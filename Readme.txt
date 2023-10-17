@@ -43,3 +43,13 @@ https://panda.ime.usp.br/aulasPython/static/aulasPython/aula19.html
 Modularização, testes e reuso:
 https://panda.ime.usp.br/aulasPython/static/aulasPython/aula20.html
 
+Algoritmos de Busca e Ordenação
+Links de acesso aos conteúdos no livro texto:
+
+Busca Sequencial e Binária:
+https://panda.ime.usp.br/cc110/static/cc110/13-busca.html
+
+Algoritmos elementares de ordenação:
+https://panda.ime.usp.br/cc110/static/cc110/14-ordenacao.html
+
+
